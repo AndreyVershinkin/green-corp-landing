@@ -49,7 +49,7 @@ button:hover {
 }
 
 .about {
-   background: url('/img/back.png') no-repeat;
+   background: url('../img/back.png') no-repeat;
    background-position: center;
    background-size: cover;
    display: flex;
@@ -207,7 +207,7 @@ button:hover {
 }
 
 .promo__image {
-   background: url('/img/promo.jpg') no-repeat;
+   background: url('../img/promo.jpg') no-repeat;
    background-position: center;
    background-size: cover;
    flex-shrink: 0;
