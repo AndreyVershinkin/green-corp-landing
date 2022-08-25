@@ -456,7 +456,11 @@ footer {
 
    .header__logo {
       height: 20px;
+<<<<<<< HEAD
       padding-top: 13px;
+=======
+      padding-top: 14px;
+>>>>>>> 888a0dd7bbac96d0efcb63cae22ab546892ddfe4
    }
 
    header a {
