@@ -49,7 +49,7 @@ button:hover {
 }
 
 .about {
-   background: url('/img/back.png') no-repeat;
+   background: url('../img/back.png') no-repeat;
    background-position: center;
    background-size: cover;
    display: flex;
@@ -110,7 +110,6 @@ button:hover {
    padding: 35px 40px 25px 40px;
    border: 1px solid #D9E4E6;
    border-radius: 5px;
-   /* grid-template-columns: auto; */
 }
 
 .card__logo {
@@ -151,8 +150,6 @@ button:hover {
 
 .features__feedback {
    display: flex;
-   /* justify-content: space-between; */
-   /* align-items: center; */
 }
 
 .features__feedback-left {
@@ -174,7 +171,6 @@ button:hover {
 
 .features__feedback-right {
    display: flex;
-   /* align-items: center; */
 }
 
 .features__box {
@@ -211,18 +207,16 @@ button:hover {
 }
 
 .promo__image {
-   background: url('/img/promo.jpg') no-repeat;
+   background: url('../img/promo.jpg') no-repeat;
    background-position: center;
    background-size: cover;
    flex-shrink: 0;
-   /* align-items: center; */
    width: 50%;
 }
 
 .promo__right {
    background-color: #dd5f26;
    padding: 160px 60px;
-   /* width: 50%; */
 }
 
 .charging {
@@ -456,11 +450,8 @@ footer {
 
    .header__logo {
       height: 20px;
-<<<<<<< HEAD
       padding-top: 13px;
-=======
       padding-top: 14px;
->>>>>>> 888a0dd7bbac96d0efcb63cae22ab546892ddfe4
    }
 
    header a {
