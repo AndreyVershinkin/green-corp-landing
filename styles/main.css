@@ -64,7 +64,7 @@ button:hover {
    align-items: center;
    justify-content: space-around;
    padding-bottom: 115px;
-   padding-top: 200px;
+   padding-top: 100px;
    position: relative;
 }
 
@@ -479,6 +479,7 @@ footer {
    .about {
       flex-direction: column-reverse;
       padding: 50px 10px;
+      padding-top: 100px;
    }
 
    .about h1 {
